@@ -1,0 +1,22 @@
+#highScoresList {
+  list-style: none;
+  background-image: url(img/4681541.jpg);
+  opacity: 0.9;
+  padding-left: 0;
+  margin-bottom: 4rem;
+  border: 3px;
+  border-color: #eb56be;
+  border-style: outset;
+  padding: 8rem;
+  border-radius: 1rem
+}
+
+.high-score {
+  font-size: 3rem;
+  color: black;
+  margin-bottom: 0.5rem;
+}
+
+.high-score:hover {
+  transform: scale(1.025);
+}
